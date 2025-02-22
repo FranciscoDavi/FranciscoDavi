@@ -2,7 +2,7 @@
 🎮 Desenvolvedor de jogos | 💻 Entusiasta de tecnologia | 🎨 Estudando Pixel Art  
 
 ### 🚀 Sobre mim
-Atualmente estudando **Unity, C# e desenvolvimento de jogos**, além de aprimorar minhas habilidades em **Pixel Art** para criar assets próprios para meus projetos. Também tenho experiência com **.NET, bancos de dados e desenvolvimento web**.
+Atualmente estudando **Unity, C# e desenvolvimento de jogos**, além de aprimorar minhas habilidades em **Pixel Art** e  **Modelagem 3D** para criar assets próprios para meus projetos. Também tenho experiência com **.NET, bancos de dados e desenvolvimento web**.
 
 ---
 
