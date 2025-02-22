@@ -30,7 +30,6 @@ Atualmente estudando **Unity, C# e desenvolvimento de jogos**, além de aprimora
 
 ---
 
-### 🎨 Arte em Pixel Art
-![Minha Arte](https://raw.githubusercontent.com/seu-usuario/repo/imagem.png)
+
 
 🔹 Buscando sempre aprender e desenvolver novos projetos! 🚀
