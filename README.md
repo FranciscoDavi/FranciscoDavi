@@ -8,7 +8,7 @@ Atualmente estudando **Unity, C# e desenvolvimento de jogos**. Também tenho exp
 
 ### 🕹️ Meus Projetos
 - 🎮 **[Space Shooter Roguelike](https://github.com/FranciscoDavi/project_mecha)** - Jogo inspirado em Vampire Survivors e 22 Minutes
-- 🍕 **[Gerenciador de Escalas](https://github.com/FranciscoDavi/Api-Escala-Funcionarios)** - Sistema para organização de turnos e tarefas
+- 📅 **[Gerenciador de Escalas](https://github.com/FranciscoDavi/Api-Escala-Funcionarios)** - Sistema para organização de turnos e tarefas
 
 ---
 
