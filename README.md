@@ -1,5 +1,3 @@
-#### Olá! 👋 Eu sou Francisco
- 💻 Entudante de tecnologia | 🎮 Desenvolvedor de jogos | 📚 Estudando C# e .NET
 
 ### 🚀 Sobre mim
 Atualmente estudando **Unity, C# e desenvolvimento de jogos**. Também tenho experiência com **.NET, bancos de dados e desenvolvimento web**.
